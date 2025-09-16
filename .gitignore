@@ -104,5 +104,4 @@ cython_debug/
 *.sqlite3
 
 # Ignore MNIST dataset files
-3_SVM/mnist_train.csv
-3_SVM/mnist_test.csv
+csv's
